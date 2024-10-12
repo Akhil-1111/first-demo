@@ -1,4 +1,4 @@
 # first-demo
 this is my first repository
 <br>
-Author - Rakesh kumar
+Author - Rakesh kumar(Akhil)
